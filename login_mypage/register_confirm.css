@@ -1,0 +1,87 @@
+header {
+    text-align:center;
+    border-bottom:3px solid lightgray;
+    margin-bottom:20px;
+}
+
+header img {
+    height:70px;
+}
+
+.confirm {
+    margin:0 auto;
+    margin-bottom:30px;
+    border:2px solid lightgray;
+    box-shadow:3px 3px lightgray;
+    border-radius:10px;
+    width:700px;
+    height:400px;
+}
+
+h1 {
+    text-align:center;
+    border-bottom:2px solid lightgreen;
+    margin:25px 10px;
+    font-size:20px;
+}
+
+.message {
+    text-align:center;
+}
+
+.form-contents p {
+    margin-left:30px;
+}
+
+.register-confirm {
+    text-align:center;
+}
+
+.modoru_button {
+    display:inline-block;
+    background-color:lightgray;
+    border:1px solid lightgray;
+    border-bottom:2px solid gray;
+    border-radius:5px;
+    color:white;
+    font-size:14px;
+}
+
+.modoru_button a {
+    text-decoration: none;
+}
+
+.modoru_button a :link{
+    color:white;
+}
+
+.modoru_button a:visited {
+    color:white;
+}
+
+.submit {
+    display:inline-block;
+}
+
+.button2 {
+    margin-left:5px;
+    background-color:green;
+    color:white;
+    border:1px solid green;
+    border-bottom:2px solid gray;
+    border-radius:5px;
+    font-size:14px;
+}
+
+
+
+footer {
+    position:fixed;
+    bottom:0;
+    text-align:center;
+    border-top:2px solid lightgray;
+    color:lightgray;
+    width:100%;
+    height:50px;
+    line-height:50px;
+}
